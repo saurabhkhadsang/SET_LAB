@@ -1,0 +1,29 @@
+head	1.1;
+access;
+symbols;
+locks; strict;
+comment	@# @;
+
+
+1.1
+date	2023.04.22.17.15.50;	author saura;	state Exp;
+branches;
+next	;
+deltatype	text;
+kopt	kv;
+permissions	600;
+commitid	2a64644416462c16;
+username	saura;
+filename	test.txt;
+
+
+desc
+@@
+
+
+1.1
+log
+@Added new file
+@
+text
+@AAAAAAAAAAAAAAAAAAAAAAAABBBBBBBBBBBBBBBBBBBBBBBBBBBBBBCCCCCCCCCCCCCC@
