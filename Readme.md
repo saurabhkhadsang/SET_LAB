@@ -13,6 +13,7 @@ https://archive.ics.uci.edu/ml/datasets/Appliances+energy+prediction
 # Appliances energy prediction Data Set
 
 data = pd.read_csv('energydata_complete.csv')
+![Screenshot 2023-04-27 130424](https://github.com/saurabhkhadsang/SET_LAB/assets/84808913/84588255-972e-4252-8dea-58b818a20aa0)
 
 # Clean the data
 
